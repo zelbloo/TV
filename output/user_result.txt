@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-25 18:22:54,url
+2025-02-26 06:19:01,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://114.252.236.205:8000/rtp/239.3.1.129:8008$组播源
@@ -196,9 +196,6 @@ CETV4,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.
 广东卫视,http://36.129.204.117:9003//hls/49/index.m3u8$订阅源
 广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$订阅源
 广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048$订阅源
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0$订阅源
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv$订阅源
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8$订阅源
 浙江卫视,http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 浙江卫视,http://218.24.193.146:808/rtp/232.0.0.123:1234$组播源
 浙江卫视,http://125.82.171.210:8888/rtp/235.254.198.18:1348$组播源
