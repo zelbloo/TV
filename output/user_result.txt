@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-07 06:20:25,url
+2025-03-07 18:23:57,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -186,6 +186,7 @@ CETV4,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.
 广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048$订阅源
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8$订阅源
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$订阅源
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639$订阅源
 浙江卫视,http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 浙江卫视,http://218.24.193.146:808/rtp/232.0.0.123:1234$组播源
